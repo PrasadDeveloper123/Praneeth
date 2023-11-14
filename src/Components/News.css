@@ -1,0 +1,51 @@
+.photosrowone{
+    background-color:whitesmoke;
+    margin-top: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    width:'100%'
+}
+
+#featured{
+
+   background-color: rgb(241, 193, 104);
+   color: white;
+
+
+}
+.royal{
+
+    font-size: 26px;
+    color: rgba(0, 0, 0, 0.877);
+}
+#challenge{
+
+    text-decoration: none;
+    color: black;
+}
+
+.royal:hover{
+color: yellow;
+}
+.img{
+    width: 320px;
+    position: absolute;
+}
+
+#news{
+    position: absolute;
+    margin-top: 0px;
+    color: white;
+    background-color: red;
+}
+
+.APR{
+    color:black;
+    border-color: yellow;
+
+}
+
+
+
+
+

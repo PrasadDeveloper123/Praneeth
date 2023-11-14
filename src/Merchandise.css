@@ -1,0 +1,25 @@
+#merchandise{
+
+    background-color: whitesmoke;
+
+    margin-left: 120px;
+    height: 430px;
+    border: 1px solid rgb(184, 180, 180);
+}
+
+*{
+
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+.rcb{
+    width: 200px;
+    margin-left: 60px;
+    margin-top: 30px;
+}
+#rupee{
+    border: 1px solid rgb(184, 180, 180);
+    width:"40px";
+    margin-top: 25px;
+}

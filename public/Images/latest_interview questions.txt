@@ -1,0 +1,424 @@
+Another Interview Questions (IBM Hyderabad)
+
+==========================================================
+React component lifecycle? 
+
+What is redux, why is it needed, a complete flow of redux.
+
+Why do we need to provide a unique key to each element when using a map function?
+
+Difference between bind, call and apply.
+
+How to do conditional rendering in react?
+
+What are inline functions in react?
+
+What are the different methods of writing a click event handler in react?
+
+Can we use arrow functions in constructor instead of ‘.bind’
+
+Which component lifecycle method would you prefer to make your api calls and why?
+
+How do you validate props in a react component?
+
+What are the different data types available in react.proptypes?
+
+What is react?
+
+What are life cycle methods?
+
+What are different types of propTypes?
+
+What is map function and their parameters?
+
+Why key is required with map functions?
+
+Why do we need redux?
+
+Explain architecture of Redux?
+
+What are combined reducers?
+
+How to create a Redux store?
+
+What connect method does? 
+
+What mapStateToProps does?
+=====================================================================================
+
+Please find the Below Interview Questions of DBS. (IBM Client)
+=============================================================================================
+ 
+
+What React and uses of React
+
+what is the Lifecycle methods of reactjs
+
+what are all the latest features of reactjs
+
+What is hooks in reactjs
+
+can you please list me some hook methods in react
+
+how you will state in reactjs
+
+what is states and props in reactjs
+
+What is virtual DOM in reactjs
+
+did state is mutable or not ?
+
+how you will pass data from one component to another component in reactjs
+
+what is render method in reactjs
+
+What is HOC Components in React
+
+What is Redux and it's Structure
+
+What is closures in javascript?
+
+What is Promises in javascript
+
+What is Array in javascript and array methods
+
+What is indexOf() in javascript
+
+What is Slice method in javascript
+
+What is Filter function in javascript
+
+what is map function in javascript
+
+what is forEach function in javascript
+
+What strict mode in javascript
+
+What is arrow functions in javascript
+
+what is classes in ES6
+
+what is the diff b/w let & var & Const
+
+what is the object and how you will pass values to some other components
+
+what is object.assign
+
+what is prototypes in javascript
+
+Finally they will write and ask some questions answers for that one (some real time scenarios ) mainly they are focusing on conditions and objects, arrays and functions of javascript
+================================================================================================================================================================
+
+(Samsung- F2F) Questions asked:
+=============================================================================
+
+The questions asked were as follows:
+
+
+find 2nd largest value in array. (array.sort) method. (javascript)
+
+find 2nd largest value in array. without using array.sort (javascript)
+
+Register Form submit and call an api and display the submitted value. (react)
+
+Find char count in an array and display the number of occurrences of all elements. (javascript)
+
+Update selected value from dropdown on register form and display the selected value on dropdown. (reactjs)
+
+Production build
+
+Tools used for optimization of build.
+
+==================================================================================
+
+Programming & problem solving:
+=================================================
+
+Find the pair of numbers which will give the specific number as difference in the sorted array
+
+
+Iterate the array, check the difference of the sequential numbers. If the difference is lesser the given number, keep iterating else break and return the numbers.
+
+
+1. How will you remove duplicate elements from an array ?
+
+2. How can you add a new element at the 0th index of an array ?
+
+3. How will you merge two arrays
+
+4. Variable hoisting  and scopes
+========================================================
+
+Frontend Javascript (Angular.2)
+===========================================================
+
+Questions asked:
+
+Explain the datatypes defined in typescript?
+
+What is the difference in public/private/protected scopes?
+
+How would pass data from component to view?
+
+Give me a practical example when you would extend a component?
+
+What are observables? Give me a practical scenario when you would need to cancel a observable.
+
+What are pipes? If I am typing something in input box, how would you convert it into upper case as soon as I am typing it?
+
+What are services? Give me a practical example when you would use services?
+
+How will you merge the two arrays?
+
+How will you convert string to integer?
+
+What components you would make to design a shopping cart in ecommerce site? Imagine a page where products are displayed with Add to cart button on each product. On click of add to cart the cart is updated.
+
+What is the difference in event.stopPropogation and event.preventDefault? 
+
+Explain CORS?
+
+How will you make a build optimized for the production?
+
+What are observables ?
+
+What do you mean by dependency injection ?
+
+What are providers ?
+
+What is mapStateToProp ?
+
+What is a virtual DOM ?
+
+How will you make sure that component state is persisted during site navigation .?
+
+=================================================================================
+
+ReactJS Questions
+
+
+You can prepare from the Leet Code for coding round.
+
+
+Username: mobileprogramming
+
+Password: code2greek
+
+Https://leetcode.com/problemset/all/
+
+
+Question asked from Samsung Panel  - Aravindh
+
+
+
+count() -> 1
+
+count() -> 2
+
+count() -> 3
+
+
+count() -> 4
+
+
+=================================================
+
+var val = 0;
+
+function count(){
+
+    return val++;
+
+}
+
+const incrementVal = count();
+
+
+
+===================================================================
+
+sortedArr = [ 1, 3, 5, 9, 12, 14, 20]
+
+
+sum = 17
+
+
+
+function test(array){
+
+  for(let i =0; i< array.length; i++){
+
+  for(let j =1; j< array.length; j++){
+
+    if(array[i] === 17) {
+
+      return true;
+
+    }
+
+   
+
+    else if(array[i] + array[j] === 17){
+
+      return true;
+
+    }else {
+
+      continue;
+
+    }
+
+}
+
+}
+
+=========================================================
+
+
+1) React architecture.
+
+2) Life cycle methods in react js.
+
+3) React basic setup and advanced configurations.
+
+4) Redux concepts and middleware 
+
+5) ES6 features.
+
+6) Nodejs environment and how it works
+
+7) My current project in-depth and production deployment process 
+
+8) CSS3 modern browser compatibility issues?
+
+How to make api calls in react?  
+
+How to interact OR communicate with Node server in react? 
+
+========================================================================
+Another Set of Questions asked:
+
+
+1. What is React js How Virtual-DOM works in React ?
+
+2. What is JSX?
+
+3. How many types of components are there React ?
+
+4. What is the difference between state and props?
+
+5. What are controlled components?
+
+6. What is a higher order component?
+
+7 What is Redux?
+
+8. What are the new features in Es6 ?
+
+9. HTML5 New features ?
+
+10. Which tools are used in your organisation to build applications ?
+
+11.why Redux explains architecture ?
+
+12.Css 3 Box model ?
+
+13.what is connect in redux ?
+
+14.what is  node js ?
+
+15.Difference b/w slice and splice ?
+
+16.Diffrence between map and for each ?
+
+17. What is redux-saga ?                                          
+
+18. What let ,const, var ?
+
+19 .Local storage and session storage ?
+
+20. Difference between Canvas and Svg ?
+
+21.css3 Media queries ? 
+=========================================================================================
+
+Please find the Reactjs Interview questions below.
+
+ 
+
+what is React,
+
+what is state and props in react,
+
+What is setState in react,
+
+What is HOC components in React,
+
+What is Pure Components,
+
+What is Rendering in Reactjs,
+
+What is Virtual DOM and it's uses,
+
+Reactjs Component LifeCycle,
+
+What is Redux and it's structure Briefly,
+
+How to Connect React to Redux,
+
+What is Promises in javascript,
+
+What is Callbacks in javascript,
+
+what is javascript Hoisting,
+
+What is Call ,apply method in javascript
+
+What is Push, Pop, shift and Unshift in javascript,
+
+what is ES6 and it's features,
+
+What is Fat arrow Function,
+
+What is the diff b/w let and var,
+
+what is the diff b/w let and const,
+
+what is diff b/w stateless and stateful components in react,
+
+What is jsx in React,
+
+How to Update State in React,
+
+What is the diff b/w Redux and Flux,
+
+what is forEach in Javascript,
+
+what filter in Javascript.
+
+============================================================================================================================
+Questions asked :Frontend Javascript (react.js)
+
+
+How would you conditionally render a component in render function?
+
+What components you would make to design a shopping cart in ecommerce site? Imagine a page where products are displayed with Add to cart button on each product. On click of add to cart the cart is updated.
+
+What state is immutable in react?
+
+Which function is used for updating the state of component?
+
+What is the advantage of choosing props over states? Give a example of stateless component?
+
+Explain how you would submit a form in react-redux form and show success/error messages based on the response?
+
+How would you redirect to a route in react?
+
+How can we directly access dom in react?
+
+Which build do you use to make react build? How do you make sure that build size is minimal for production deployment?
+
+What is the difference in event.stop Propogation and event.preventDefault?
+
+Explain CORS?
+===================================================================================================================================

@@ -1,0 +1,61 @@
+
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+
+    margin: 0px;
+}
+
+#sun{
+
+    margin-top: 0px;
+    height: 60px;
+    padding: 15px;
+    color: white;
+   
+    
+   background-color: rgb(214, 12, 12);
+    
+}
+
+#swamy{
+
+    background-color: rgb(173, 164, 164);
+    width:"1000px";
+    margin-top: 60px
+}
+
+.Bangalore{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+
+#royal{
+
+    margin-top: 30px;
+    font-size: 18px;
+}
+.online{
+    background-color: rgb(75, 70, 70);
+    color: white;
+    padding-top: 6px;
+}
+
+#courier{
+
+    text-decoration: none;
+    color: orange;
+}
+
+.Item:hover{
+background-color: red;
+
+
+}
+
+#a:focus-visible{
+    border-bottom: 5px solid red;
+}
+

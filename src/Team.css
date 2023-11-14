@@ -1,0 +1,31 @@
+.FAF{
+    margin-left: 100px;
+}
+
+.team{
+    display: flex;
+}
+
+#I{
+    width:"200px"
+}
+
+.FAF:hover{
+    color: yellow;
+}
+
+
+.crush:hover{
+
+    
+   color:yellow;
+    border-bottom: 4px solid red;
+
+}
+
+
+.crush:active{
+
+    color: red;
+    
+}

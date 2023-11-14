@@ -1,0 +1,239 @@
+.one{
+
+    margin-top:200px;
+    margin-left: 40px;
+}
+
+.two{
+    background-color: rgb(207, 62, 62);
+    margin-top: 10px;
+}
+
+*{
+    box-sizing: border-box;
+    margin: 0px;
+}
+.day{
+
+    color: white;
+    background-color: rgb(218, 218, 87);
+    margin-top: 10px;
+    
+}
+
+.home{
+    margin-left:40px;
+    margin-top: 40px;
+    display: flex;
+}
+
+.rr{
+    background-color: black;
+    margin-left: 8px;
+    
+}
+
+.GJ{
+   color:rgb(218, 181, 113);
+   margin-left: 10px;
+}
+
+.score{
+    border: 1px solid rgb(116, 114, 109);
+    height:'10px'
+}
+
+.chennai{
+    background-color: rgb(61, 57, 57);
+    margin-top: 15px;
+}
+    
+
+.one:hover{
+    color: yellow;
+}
+
+.buy:hover{
+    color: yellow;
+}
+
+.poll{
+    background-color: whitesmoke;
+    width:330px;
+    height: 520px;
+}
+
+.the::after{
+content: "POLL";
+font-size: 35px;
+}
+
+.annanya:hover{
+
+color: yellow;
+
+
+}
+
+.annanya{
+    text-decoration: none;
+    color: black;
+}
+#squad::after{
+
+content: "SQUAD";
+font-size: 45px;
+}
+
+
+.virat{
+    width:400px;
+    position: relative;
+    margin-top: 50px;
+    
+   
+
+}
+
+
+.car{
+    margin-top: 30px;
+    display: flex;
+    
+    
+}
+
+.tag{
+    position: absolute;
+    
+    color: red;
+    
+}
+
+
+.menu{
+    background-color: red;
+    
+    margin-top: 50px;
+   
+    
+    width:250px;
+    height: 410px;
+   
+}
+
+.tag::after{
+    content: "RCBSTORE";
+    font-size: 50px;
+}
+
+.line{
+    margin-top: 10PX;
+    margin-left: 46px;
+    color: white;
+    font-size: 18px;
+}
+
+.Harshal{
+
+    background-color: white;
+    position: absolute;
+    margin-left: 250px;
+}
+
+.grid{
+    display: grid;
+    grid-column: 250px 100px 100px 100px;
+    grid-row: 200px 200px;
+}
+
+.menu{
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+
+
+.ra{
+    grid-row-start: 1;
+    grid-row-end: 2;
+}
+
+
+.gridone{
+    border: 1px solid rgb(184, 180, 180);
+    margin-left: 30px;
+    margin-top: 40px;
+    width:200px;
+    height: 250px;
+
+}
+
+
+#rate{
+
+    border: 1px solid rgb(184, 180, 180);
+    height: 40px;
+
+}
+
+.gridtwo{
+    border: 1px solid rgb(184, 180, 180);
+    margin-left: 30px;
+    margin-top: 10px;
+    width:200px;
+    height: 250px;
+
+}
+
+.siraj:hover{
+
+    color: yellow;
+
+}
+
+.c{
+    color: red;
+}
+
+
+#rose{
+    background-color:rgb(143, 139, 139);
+    width:1500px;
+    height: 60px;
+    position: absolute;
+    margin-top: 600px;
+
+    
+    
+}
+
+.airways{
+
+    box-sizing: border-box;
+    background-color: rgb(131, 128, 128);
+    color: white;
+    width:30px;
+    height:46px;
+    padding: 8px;
+    margin-left: 20px;
+
+}
+
+
+.happilo{
+    margin-left: 20px;
+}
+
+.pant{
+    margin-left: 20px;
+}
+
+.companys{
+    background-color:rgb(80, 76, 76) ;
+    margin-top: 30px;
+    height: 1650px;
+}
+
+.names{
+    color: white;
+}

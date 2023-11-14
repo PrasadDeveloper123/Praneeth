@@ -1,0 +1,39 @@
+#p{
+
+    background-color: white;
+    
+}
+
+.h{
+    text-align: center;
+    color: rgb(228, 61, 61);
+    font-size: 25px;
+    margin-top: 30px;
+}
+
+.waste{
+    background-color: whitesmoke;
+    width:1050px;
+    margin-left: 120px;
+    margin-top: 10px;
+    display: flex;
+}
+
+
+.green{
+    width:300px;
+}
+
+.m{
+    margin-left: 20px;
+    font-size: 28px;
+
+}
+
+.pledge{
+    background-color: whitesmoke;
+    border-radius: 50%;
+    width:35px;
+    margin-left: 130px;
+    margin-top: 30px;
+}

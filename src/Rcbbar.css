@@ -1,0 +1,68 @@
+.img{
+    width:400px;
+    margin:40px;
+    position: absolute;
+}
+
+
+
+.bar1{
+    display: flex;
+}
+
+.B2{
+    position: absolute;
+    margin-top: 10px;
+    
+}
+.B{
+    position: relative;
+    margin-top: 350px;
+    margin-left: 100px;
+    font-size: 30px;
+    background-color: red;
+    color: white;
+
+   
+}
+.B1{
+    position: relative;
+    margin-left: 100px;
+    font-size: 30px;
+    background-color: red;
+    color: white;
+    margin-top: 8px;
+}
+
+.B3{
+    position: relative;
+    margin-left: 100px;
+    font-size: 30px;
+    background-color: red;
+    color: white;
+    margin-top: 8px;
+}
+.table{
+    background-color: red;
+    
+    color: white;
+    font-size: 25px;
+    width: 180px;
+    height: 60px;
+    padding: 3px;
+   
+}
+.I{
+   font-size: 30px;
+   color: rgb(65, 63, 60);
+   
+}
+
+.r{
+    border: 1px solid black;
+    height: 40px;
+    border-radius: 50%;
+}
+.table:hover{
+    color: yellow !important;
+}

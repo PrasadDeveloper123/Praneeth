@@ -1,0 +1,47 @@
+.rowone{
+    display: flex;
+}
+.background{
+    background-color: rgb(190, 25, 25);
+    height: 150px;
+}
+#logo{
+    margin-left: 50px;
+    
+}
+.download{
+    display: flex;
+  margin-left: 1100px;
+   
+   color: white;
+   font-size: 10px;
+   position: absolute;
+   margin-top:0px;
+
+}
+.third{
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 0px;
+}
+.A{
+    color: white;
+    text-decoration: none;
+   
+}
+
+.A:hover{
+    color: yellow;
+}
+
+#cars{
+    outline: none;
+    border: none;
+    width: 60px;
+    background-color: rgb(189, 35, 35);
+    color: white;
+}
+
+.two:hover{
+    color: yellow;
+}

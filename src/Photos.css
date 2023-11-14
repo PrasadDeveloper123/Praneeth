@@ -1,0 +1,71 @@
+.photosrowone{
+    background-color:whitesmoke;
+}
+.suneel:hover{
+color: yellow;
+text-decoration: none;
+}
+.suneel{
+    text-decoration: none;
+}
+
+.cards{
+    display: flex;
+    
+}
+
+
+
+
+.anushka{
+    width:300px;
+    margin-left: 30px;
+}
+
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    
+}
+#o{
+     color: rgb(240, 54, 54);
+     
+}
+
+.may{
+
+    color: rgb(243, 243, 10);
+    margin-left: 10px;
+    background-color: rgba(241, 241, 62, 0.822);
+    width: 30px;
+    color: white;
+    
+}
+.rrr{
+    display: flex;
+}
+
+.prasad{
+    color: rgba(17, 17, 17, 0.884);
+    font-size: 18px;
+    text-decoration: none;
+}
+.prasad:hover{
+    color: yellow;
+    
+}
+
+
+.kgf:hover{
+
+    width: 500px;
+}
+
+ .jai{
+    height:200px
+} 
+
+.jai:hover{
+    transition: all 3s;
+    height: 220px;
+}
